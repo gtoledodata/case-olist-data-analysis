@@ -300,7 +300,7 @@ O painel permite analisar e filtrar informações relacionadas a:
 
 ### 📊 Apresentação Executiva
 
-`<LINK_DA_APRESENTAÇÃO>`
+[Arquivo Apresentação](https://github.com/gtoledodata/case-olist-data-analysis/blob/325f77add8566bf8827ab8ab36e53ae6725b2c50/apresentacao/Apresentac%CC%A7a%CC%83o.pdf)
 
 ### 🎥 Vídeo Executivo
 
@@ -314,11 +314,11 @@ Este repositório contém os códigos, análises e materiais utilizados no desen
 
 # :busts_in_silhouette: Equipe
 
-**Alan Lima** (RM 375783)
-**Derrick Kavabata** (RM 375932)
-**Gustavo Toledo** (RM 376220)
-**Tais Santos** (RM 375962)
-**Victor Vallim** (RM 375931)
+**Alan Lima** (RM 375783)  
+**Derrick Kavabata** (RM 375932)  
+**Gustavo Toledo** (RM 376220)  
+**Tais Santos** (RM 375962)  
+**Victor Vallim** (RM 375931)  
 
 ---
 
