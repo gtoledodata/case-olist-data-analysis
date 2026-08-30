@@ -8,7 +8,6 @@
   <sub>Clique na capa para visualizar a apresentação completa</sub>
 </p>
 
-
 # :rocket: Tech Challenge — Fase 1
 
 ## :bar_chart: Olist E-commerce | Data Analytics & Business Intelligence
