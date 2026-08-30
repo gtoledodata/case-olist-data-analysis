@@ -1,12 +1,12 @@
-# Tech Challenge — Fase 1
+# :rocket: Tech Challenge — Fase 1
 
-## Olist E-commerce | Data Analytics & Business Intelligence
+## :bar_chart: Olist E-commerce | Data Analytics & Business Intelligence
 
 > **Transformando dados transacionais em insights para crescimento, eficiência operacional e geração de valor.**
 
 ---
 
-## Sobre o projeto
+## :compass: Sobre o projeto
 
 Este projeto foi desenvolvido como parte do **Tech Challenge — Fase 1**, com o objetivo de analisar o **Brazilian E-Commerce Public Dataset by Olist** e transformar dados transacionais em uma visão executiva sobre o desempenho do negócio.
 
@@ -25,7 +25,7 @@ Os resultados foram utilizados para identificar **oportunidades comerciais, garg
 
 ---
 
-## Objetivos
+## :dart: Objetivos
 
 O projeto teve como principais objetivos:
 
@@ -41,7 +41,7 @@ O projeto teve como principais objetivos:
 
 ---
 
-## Dataset
+## :card_file_box: Dataset
 
 A análise utiliza o **Brazilian E-Commerce Public Dataset by Olist**, composto por aproximadamente **100 mil pedidos realizados entre 2016 e 2018**.
 
@@ -63,13 +63,13 @@ Os dados são públicos, reais e anonimizados.
 ### [Dataset Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 ---
 
-## Metodologia
+## :microscope: Metodologia
 
 Foi utilizado o processo de **Knowledge Discovery in Databases (KDD)** para estruturar o desenvolvimento da análise:
 
 **Seleção → Limpeza → Transformação → Análise → Interpretação**
 
-### Preparação dos dados
+### :broom: Preparação dos dados
 
 A etapa de preparação contemplou:
 
@@ -80,15 +80,15 @@ A etapa de preparação contemplou:
 * Integração das diferentes tabelas do dataset;
 * Tratamento de valores atípicos nas variáveis analisadas.
 
-### Indicadores
+### :chart_with_upwards_trend: Indicadores
 
 Foram definidos KPIs para acompanhar diferentes dimensões do negócio, permitindo transformar os dados em informações comparáveis e úteis para a tomada de decisão.
 
 ---
 
-# Análises
+# :mag: Análises
 
-## 1. Crescimento e Receita
+## :moneybag: 1. Crescimento e Receita
 
 A análise comercial buscou entender como **volume de pedidos e ticket médio** contribuem para a geração de receita.
 
@@ -100,7 +100,7 @@ Foram investigados:
 * Desempenho por categoria;
 * Relação entre volume, ticket e faturamento.
 
-### Principais insights
+### :bulb: Principais insights
 
 * **2017 marcou uma forte aceleração da operação**, com crescimento de pedidos e receita;
 * A evolução da receita foi puxada principalmente por **volume de pedidos**;
@@ -110,7 +110,7 @@ Foram investigados:
 
 ---
 
-## 2. Logística e SLA
+## :truck: 2. Logística e SLA
 
 A análise logística teve como objetivo identificar onde estão concentrados os principais gargalos da jornada de entrega.
 
@@ -123,7 +123,7 @@ Foram avaliados:
 * Desempenho por região;
 * Rotas críticas.
 
-### Principais insights
+### :bulb: Principais insights
 
 * A etapa entre **postagem e entrega** concentra a maior parcela do tempo da jornada;
 * O ciclo logístico completo chega a aproximadamente **12,6 dias**;
@@ -134,7 +134,7 @@ Foram avaliados:
 
 ---
 
-## 3. Comportamento e Pagamentos
+## :credit_card: 3. Comportamento e Pagamentos
 
 Esta frente buscou compreender como os clientes realizam suas compras e qual o potencial de geração de valor por meio da recorrência.
 
@@ -148,7 +148,7 @@ Foram analisados:
 * Retenção por coorte;
 * Valor acumulado por perfil de cliente.
 
-### Principais insights
+### :bulb: Principais insights
 
 * O **cartão de crédito representa aproximadamente 74% dos pagamentos**;
 * Compras com maior número de parcelas apresentam, em média, maior valor;
@@ -159,7 +159,7 @@ Foram analisados:
 
 ---
 
-## 4. Satisfação do Cliente
+## :star: 4. Satisfação do Cliente
 
 A análise de satisfação buscou identificar categorias e situações que apresentam maior risco para a experiência do cliente.
 
@@ -173,7 +173,7 @@ Foram considerados:
 * Taxa de atraso;
 * Relação entre atraso e satisfação.
 
-### Principais insights
+### :bulb: Principais insights
 
 * As avaliações apresentam concentração relevante nas notas extremas;
 * Categorias com **maior volume de avaliações e menor score** representam prioridades de remediação;
@@ -183,7 +183,7 @@ Foram considerados:
 
 ---
 
-# Oportunidades e Recomendações
+# :rocket: Oportunidades e Recomendações
 
 Com base nos diagnósticos realizados, foram identificadas as seguintes frentes estratégicas:
 
@@ -235,7 +235,7 @@ O comportamento de parcelamento indica associação entre **maior número de par
 
 ---
 
-# Conclusão
+# :checkered_flag: Conclusão
 
 A análise aponta três caminhos prioritários para geração de valor:
 
@@ -255,7 +255,7 @@ Categorias de **alto ticket e baixo volume** apresentam espaço para crescimento
 
 ---
 
-# Dashboard
+# :bar_chart: Dashboard
 
 Foi desenvolvido um dashboard em **Power BI** para consolidar os principais indicadores e permitir a exploração dos resultados por diferentes dimensões.
 
@@ -274,9 +274,9 @@ O painel permite analisar e filtrar informações relacionadas a:
 
 ---
 
-# Tecnologias utilizadas
+# :toolbox: Tecnologias utilizadas
 
-### Python
+### :snake: Python
 
 * Pandas
 * NumPy
@@ -284,42 +284,19 @@ O painel permite analisar e filtrar informações relacionadas a:
 * Seaborn
 * Plotly
 
-### Business Intelligence
+### :bar_chart: Business Intelligence
 
 * Power BI
 
-### Ambiente
+### :computer: Ambiente
 
 * Google Colab
 
-### Versionamento e documentação
+### :books: Versionamento e documentação
 
 * GitHub
 
----
-
-# Estrutura do projeto
-
-```text
-├── README.md
-├── data/
-│   └── ...
-├── notebooks/
-│   └── ...
-├── src/
-│   └── ...
-├── dashboard/
-│   └── ...
-├── presentation/
-│   └── ...
-└── requirements.txt
-```
-
-> A estrutura acima pode ser adaptada de acordo com a organização final do repositório.
-
----
-
-# Entregáveis
+# :package: Entregáveis
 
 ### 📊 Apresentação Executiva
 
@@ -335,12 +312,13 @@ Este repositório contém os códigos, análises e materiais utilizados no desen
 
 ---
 
-# Equipe
+# :busts_in_silhouette: Equipe
 
-**<NOME 1>**
-**<NOME 2>**
-**<NOME 3>**
-**<NOME 4>**
+**Alan Lima** (RM 375783)
+**Derrick Kavabata** (RM 375932)
+**Gustavo Toledo** (RM 376220)
+**Tais Santos** (RM 375962)
+**Victor Vallim** (RM 375931)
 
 ---
 
