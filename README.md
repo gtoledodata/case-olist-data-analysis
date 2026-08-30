@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="./apresentacao/Tech_Challenge_Olist.pdf">
+    <img src="./apresentacao/capa.png" alt="Tech Challenge — Olist E-commerce">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Clique na capa para visualizar a apresentação completa</sub>
+</p>
+
+
 # :rocket: Tech Challenge — Fase 1
 
 ## :bar_chart: Olist E-commerce | Data Analytics & Business Intelligence
