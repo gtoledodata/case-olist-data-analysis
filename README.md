@@ -59,8 +59,8 @@ A base reúne informações de diferentes dimensões da operação:
 Os dados são públicos, reais e anonimizados.
 
 **Fonte do dataset:**
-`<LINK_DO_DATASET>`
 
+### [Dataset Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 ---
 
 ## Metodologia
