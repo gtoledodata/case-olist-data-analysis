@@ -270,7 +270,7 @@ O painel permite analisar e filtrar informações relacionadas a:
 * Ocorrências.
 
 **Dashboard:**
-`<LINK_DO_POWER_BI_OU_ARQUIVO>`
+[Dashboard de Satisfação](https://app.powerbi.com/view?r=eyJrIjoiYzUzYTM1MWMtMjM2NS00YjYyLWI0MzgtMzczNGZmMTdkZDQyIiwidCI6IjY5MWEzZDExLWU1YzctNDQ5ZC04Y2M5LWUwOTYyNjVhNGI2MiJ9)
 
 ---
 
