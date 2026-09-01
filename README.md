@@ -7,6 +7,21 @@
 <p align="center">
   <sub>Clique na capa para visualizar a apresentação completa</sub>
 </p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OgneuRdHVIE">
+    <img src="https://img.youtube.com/vi/OgneuRdHVIE/maxresdefault.jpg" 
+         alt="Assista à apresentação executiva do projeto" 
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+  <strong>🎥 Apresentação Executiva — Tech Challenge Olist</strong><br>
+  <sub>Clique para assistir ao vídeo completo</sub>
+</p>
+
 
 # :rocket: Tech Challenge — Fase 1
 
@@ -314,7 +329,7 @@ O painel permite analisar e filtrar informações relacionadas a:
 
 ### 🎥 Vídeo Executivo
 
-`<LINK_DO_VÍDEO>`
+▶️ [Assistir à apresentação executiva no YouTube](https://www.youtube.com/watch?v=OgneuRdHVIE)
 
 ### 💻 Repositório
 
